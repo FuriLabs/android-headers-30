@@ -23,6 +23,7 @@
 #include <stdio.h>
 #include <sys/cdefs.h>
 #include <sys/types.h>
+#include <string.h>
 
 #include <cutils/bitops.h>
 
