@@ -11,7 +11,7 @@ Vcs-Git: https://github.com/droidian/android-headers-30.git
 Package: android-headers-30
 Architecture: all
 Provides: android-headers
-Conflicts: android-libcutils-dev, android-liblog-dev
+Conflicts: android-libcutils-dev, android-liblog-dev, android-platform-system-core-headers,
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Android Platform Headers from AOSP releases
  Android NDK provided by Google contains subset of AOSP platform
